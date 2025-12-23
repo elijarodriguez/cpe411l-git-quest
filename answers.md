@@ -4,3 +4,4 @@ LEVEL 3 COMPLETE: Found CLUE-3: SUNSET-19
 LEVEL 4 COMPLETE: fixed the hallway sign
 LEVEL 5 COMPLETE: confirmed working on student-john-elija-dg-rodriguez
 LEVEL 6 CHEST CODE: FOX-7
+LEVEL 7 COMPLETE: viewed diff
